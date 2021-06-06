@@ -1,6 +1,12 @@
-### Hi there 👋
+### Olá 👋... bom te ver por aqui, seja bem-vindo!
 
-<!--
+____________________________________________________________________________________________________________________________________________________________
+
+![Top's github stats](https://github-readme-stats.vercel.app/api?username=JeanSisse&custom_title=Top's-GitHub-Stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanSisse&exclude_repo=HeMPS8.5_,7.3_temperatura&hide=Yacc,Makefile,Tcl,Lex,css&langs_count=7&layout=compact)](https://github.com/JeanSisse/github-readme-stats)
+
+
+
+<!--&custom_title=Top's github stats
 **JeanSisse/JeanSisse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://komarev.com/ghpvc/?username=JeanSisse&color=red&style=flat)
