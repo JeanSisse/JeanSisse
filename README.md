@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 -->
 ![](https://komarev.com/ghpvc/?username=JeanSisse&color=red&style=flat)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=JeanSisse.JeanSisse)
-
 ___________________________________________________________________________________________________________________________________________________________________
 ## 🧰 Linguagens e Ferramentas:
 <p align="left">
