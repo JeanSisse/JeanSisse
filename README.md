@@ -2,7 +2,7 @@
 
 ____________________________________________________________________________________________________________________________________________________________
 
-![Top's github stats](https://github-readme-stats.vercel.app/api?username=JeanSisse&custom_title=Top's-GitHub-Stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanSisse&exclude_repo=HeMPS8.5_,7.3_temperatura&hide=Yacc,Makefile,Tcl,Lex,css&langs_count=7&layout=compact)](https://github.com/JeanSisse/github-readme-stats)
+![Top's github stats](https://github-readme-stats.vercel.app/api?username=JeanSisse&theme=prussian&show_icons=true&custom_title=Top's-GitHub-Stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanSisse&theme=prussian&exclude_repo=HeMPS8.5_,7.3_temperatura&hide=Yacc,Makefile,Tcl,Lex,css&langs_count=7&layout=compact)](https://github.com/JeanSisse/github-readme-stats)
 
 
 
@@ -29,3 +29,11 @@ ________________________________________________________________________________
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
+
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a> -->
