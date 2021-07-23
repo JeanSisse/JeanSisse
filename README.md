@@ -2,7 +2,7 @@
 
 ____________________________________________________________________________________________________________________________________________________________
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=JeanSisse&theme=prussian&show_icons=true&custom_title=`GitHub-Stats`) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanSisse&theme=prussian&exclude_repo=HeMPS8.5_,7.3_temperatura&hide=Yacc,Makefile,Tcl,Lex,css&langs_count=7&layout=compact)](https://github.com/JeanSisse/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=JeanSisse&theme=prussian&show_icons=true&custom_title=GitHub%20Stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanSisse&theme=prussian&exclude_repo=HeMPS8.5_,7.3_temperatura&hide=Yacc,Makefile,Tcl,Lex,css&langs_count=7&layout=compact)](https://github.com/JeanSisse/github-readme-stats)
 
 
 
