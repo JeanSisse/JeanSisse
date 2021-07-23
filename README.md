@@ -2,8 +2,18 @@
 
 ____________________________________________________________________________________________________________________________________________________________
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=JeanSisse&theme=prussian&show_icons=true&custom_title=GitHub%20Stats&hide=issues) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanSisse&theme=prussian&exclude_repo=HeMPS8.5_,7.3_temperatura&hide=Yacc,Makefile,Tcl,Lex,css&langs_count=7&layout=compact)](https://github.com/JeanSisse/github-readme-stats)
-
+<p align="center">
+  <a href="hhttps://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JeanSisse&theme=prussian&show_icons=true&custom_title=GitHub%20Stats&hide=issues" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanSisse&theme=prussian&exclude_repo=HeMPS8.5_,7.3_temperatura&hide=Yacc,Makefile,Tcl,Lex,css&langs_count=7&layout=compact" />
+  </a>
+  
+</p>
+<!--   ![Github stats](https://github-readme-stats.vercel.app/api?username=JeanSisse&theme=prussian&show_icons=true&custom_title=GitHub%20Stats&hide=issues) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanSisse&theme=prussian&exclude_repo=HeMPS8.5_,7.3_temperatura&hide=Yacc,Makefile,Tcl,Lex,css&langs_count=7&layout=compact)](https://github.com/JeanSisse/github-readme-stats)
+-->
 <!--
 [![card](https://github-readme-stats.vercel.app/api?username=JeanSisse&theme=prussian&show_icons=true&custom_title=GitHub%20Stats&hide=issues)](https://github.com/JeanSisse)
   -->
@@ -65,6 +75,7 @@ ________________________________________________________________________________
 
 <p align="center">
   <a target="_blanck" href="https://komarev.com/ghpvc/?username=JeanSisse&color=red&style=flat">
-    <img src="https://komarev.com/ghpvc/?username=JeanSisse&color=red&style=flat" style="max-width:100%;">
+<!--     <img src="https://komarev.com/ghpvc/?username=JeanSisse&color=red&style=flat" style="max-width:100%;"> -->
+    <img src="https://profile-counter.glitch.me/JeanSisse/count.svg">
   </a>
 </p>
