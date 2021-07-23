@@ -74,7 +74,7 @@ ________________________________________________________________________________
 ## Total de visitas:
 
 <p align="center">
-  <a target="_blanck" href="https://komarev.com/ghpvc/?username=JeanSisse&color=red&style=flat">
+  <a target="_blanck" href="https://profile-counter.glitch.me/JeanSisse/count.svg">
 <!--     <img src="https://komarev.com/ghpvc/?username=JeanSisse&color=red&style=flat" style="max-width:100%;"> -->
     <img src="https://profile-counter.glitch.me/JeanSisse/count.svg">
   </a>
