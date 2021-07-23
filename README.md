@@ -2,7 +2,7 @@
 
 ____________________________________________________________________________________________________________________________________________________________
 
-<p align="center">
+<p >
   <a href="hhttps://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=JeanSisse&theme=prussian&show_icons=true&custom_title=GitHub%20Stats&hide=issues" />
   </a>
