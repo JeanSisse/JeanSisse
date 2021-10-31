@@ -10,26 +10,6 @@ ________________________________________________________________________________
   </a>
 </p>
 
-<!--   ![Github stats](https://github-readme-stats.vercel.app/api?username=JeanSisse&theme=prussian&show_icons=true&custom_title=GitHub%20Stats&hide=issues) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanSisse&theme=prussian&exclude_repo=HeMPS8.5_,7.3_temperatura&hide=Yacc,Makefile,Tcl,Lex,css&langs_count=7&layout=compact)](https://github.com/JeanSisse/github-readme-stats)
--->
-<!--
-[![card](https://github-readme-stats.vercel.app/api?username=JeanSisse&theme=prussian&show_icons=true&custom_title=GitHub%20Stats&hide=issues)](https://github.com/JeanSisse)
-  -->
-
-<!--&custom_title=Top's github stats
-**JeanSisse/JeanSisse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ___________________________________________________________________________________________________________________________________________________________________
 ## Linguagens e Ferramentas:
 <p align="center">
