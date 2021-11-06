@@ -4,9 +4,9 @@ ________________________________________________________________________________
 
 <p align="center">
   <a href="hhttps://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JeanSisse&theme=prussian&show_icons=true&custom_title=GitHub%20Stats&hide=issues" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JeanSisse&theme=prussian&show_icons=true&custom_title=GitHub%20Stats&hide=issues&layout=compact" height="150px" />
   </a> <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanSisse&theme=prussian&hide=Yacc,Makefile,Tcl,Lex&langs_count=7&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanSisse&theme=prussian&hide=Yacc,Makefile,Tcl,Lex&langs_count=7&layout=compact" height="150px"/>
   </a>
 </p>
 
