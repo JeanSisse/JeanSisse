@@ -1,5 +1,5 @@
-### Olá 👋 eu sou Jean Pierre... bom te ver por aqui, seja bem-vindo!
-#### Sou desenvolvedor web full-stack em formação pela Cubos Academy.
+### Olá 👋 eu sou Jean Pierre... bom te ver por aqui, seja bem-vind@!
+#### Sou desenvolvedor web full-stack com conhecimento em Node.js, React.js e Java.
 
 ____________________________________________________________________________________________________________________________________________________________
 
